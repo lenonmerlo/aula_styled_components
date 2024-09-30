@@ -14,4 +14,3 @@ const Projeto = () => (
 )
 
 export default Projeto
-
